@@ -7,7 +7,7 @@ function voti(){
     var loginText = login.value;
     var password = document.getElementById("passwordBox");
     var passText = password.value;
-    if(loginText == "da" && passText == "da"){
+    if(loginText == "Dedushka" && passText == "1207"){
         window.location.href = "main.html";
     }
     else{
