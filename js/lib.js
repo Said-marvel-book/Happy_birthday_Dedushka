@@ -12,5 +12,7 @@ function voti(){
     }
     else{
         alert("Если вы не знаете пароля не пробуйте!")
+        console.log(passText);
+        console.log(loginText);
     }
 }
